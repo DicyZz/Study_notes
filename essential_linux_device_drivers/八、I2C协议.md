@@ -1,26 +1,26 @@
-   * [I2C协议](#i2c协议)
-         * [I2C/SMBus](#i2csmbus)
-         * [I2C核心](#i2c核心)
-         * [总线事物](#总线事物)
-         * [EEPROC](#eeproc)
-         * [实时时钟](#实时时钟)
-         * [I2C-dev](#i2c-dev)
-         * [使用LM-Sensors监控硬件](#使用lm-sensors监控硬件)
-         * [SPI总线](#spi总线)
-         * [1-Wire总线](#1-wire总线)
-         * [调试](#调试)
-         * [查看源代码](#查看源代码)
+  * [I2C协议](#i2c协议)
+  * [I2C/SMBus](#i2csmbus)
+  * [I2C核心](#i2c核心)
+  * [总线事物](#总线事物)
+  * [EEPROC](#eeproc)
+  * [实时时钟](#实时时钟)
+  * [I2C-dev](#i2c-dev)
+  * [使用LM-Sensors监控硬件](#使用lm-sensors监控硬件)
+  * [SPI总线](#spi总线)
+  * [1-Wire总线](#1-wire总线)
+  * [调试](#调试)
+  * [查看源代码](#查看源代码)
 
 <!--ts-->
 <!--te-->
 
-## I2C协议
+### I2C协议
 
 ![image-20200903110119032](https://i.loli.net/2021/05/24/JD1VjTWGpaveZ3P.png)
 
 
 
-#### I2C/SMBus
+### I2C/SMBus
 
 ![image-20200903110217928](https://i.loli.net/2021/05/24/JCimGIT7qkXbo5D.png)
 
@@ -28,7 +28,7 @@
 
 
 
-#### I2C核心
+### I2C核心
 
 ![image-20200903110639965](https://i.loli.net/2021/05/24/YcRZbkpPNyB1Erx.png)
 
@@ -36,13 +36,13 @@
 
 
 
-#### 总线事物
+### 总线事物
 
 ![image-20200903111428901](https://i.loli.net/2021/05/24/AJf53RQkcTpLF6X.png)
 
 
 
-#### EEPROC
+### EEPROC
 
 ![image-20200903111635465](https://i.loli.net/2021/05/24/aROzU3J6bnQIcFZ.png)
 
@@ -92,7 +92,7 @@
 
 
 
-#### 实时时钟
+### 实时时钟
 
 ![image-20200903112408160](https://i.loli.net/2021/05/24/Vk1NED3thT4FORM.png)
 
@@ -106,19 +106,19 @@
 
 
 
-#### I2C-dev
+### I2C-dev
 
 ![image-20200903112638451](https://i.loli.net/2021/05/24/1fM4vjq2LxDPTsE.png)
 
 
 
-#### 使用LM-Sensors监控硬件
+### 使用LM-Sensors监控硬件
 
 ![image-20200903112733723](https://i.loli.net/2021/05/24/u78CIawgynBf4sK.png)
 
 
 
-#### SPI总线
+### SPI总线
 
 ![image-20200903112800716](https://i.loli.net/2021/05/24/jJlnTMOyBULQ4hb.png)
 
@@ -130,19 +130,19 @@
 
 
 
-#### 1-Wire总线
+### 1-Wire总线
 
 ![image-20200903112944462](https://i.loli.net/2021/05/24/IWguFD46ALxir2S.png)
 
 
 
-#### 调试
+### 调试
 
 ![image-20200903113006413](https://i.loli.net/2021/05/24/Ymbsn7WeLkd8iQC.png)
 
 
 
-#### 查看源代码
+### 查看源代码
 
 ![image-20200903113037626](https://i.loli.net/2021/05/24/xHIcF2Swn5yXzKe.png)
 
