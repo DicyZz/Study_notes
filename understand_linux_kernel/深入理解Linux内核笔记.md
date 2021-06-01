@@ -41,13 +41,13 @@
 
 ### 第一章 绪论
 
-![Screenshot from 2021-05-24 11-18-13](https://i.loli.net/2021/05/24/WoFqwsy6KlzQcpM.png)
+![Screenshot from 2021-05-24 11-18-13](https://i.loli.net/2021/06/01/Y3DEIenMxFP9gVj.png)
 
 #### Linux与其他类Unix内核比较
 
-![Screenshot from 2021-05-24 11-24-24](https://i.loli.net/2021/05/24/oZveapISqsmcz4F.png)
+![Screenshot from 2021-05-24 11-24-24](https://i.loli.net/2021/06/01/1VbjXEHiIfmksLg.png)
 
-![Screenshot from 2021-05-24 11-26-32](https://i.loli.net/2021/05/24/4UBo5C9F3KfVDEH.png)
+![Screenshot from 2021-05-24 11-26-32](https://i.loli.net/2021/06/01/LVfzyw6ZTdOulAs.png)
 
 
 
@@ -57,7 +57,7 @@ Unix操作系统的设计集中反映在其文件系统
 
 Unix文件是以字节序列组成的信息载体，内核不解释文件的内容。从用户的观点来看，文件被组织在一个树结构的命名空间中，除了叶节点之外，树的所有节点都表示目录名。
 
-![Screenshot from 2021-05-24 11-38-48](https://i.loli.net/2021/05/24/HYSJhpflKG87QVx.png)
+![Screenshot from 2021-05-24 11-38-48](https://i.loli.net/2021/06/01/eDCNprmU8wvzA4c.png)
 
 
 
@@ -89,19 +89,19 @@ Unix文件有以下几种
 
 #### 文件描述符与索引节点
 
-![Screenshot from 2021-05-24 11-43-57](https://i.loli.net/2021/05/24/ryEQsFNAjtBJpoW.png)
+![Screenshot from 2021-05-24 11-43-57](https://i.loli.net/2021/06/01/ek93hERBIS7CjmX.png)
 
 索引节点指定如下属性：
 
-![Screenshot from 2021-05-24 11-45-32](https://i.loli.net/2021/05/24/DPEny9Gv31OgH5F.png)
+![Screenshot from 2021-05-24 11-45-32](https://i.loli.net/2021/06/01/FCG7mpxDzcZHnly.png)
 
 
 
 #### 访问权限和文件模式
 
-![Screenshot from 2021-05-24 11-47-46](https://i.loli.net/2021/05/24/dQrIeSRyaluYLmB.png)
+![Screenshot from 2021-05-24 11-47-46](https://i.loli.net/2021/06/01/MjbtwKflCup4GYq.png)
 
-![Screenshot from 2021-05-24 11-48-07](https://i.loli.net/2021/05/24/NLs6w1AKbqR4W8V.png)
+![Screenshot from 2021-05-24 11-48-07](https://i.loli.net/2021/06/01/dtaZeHC5bg1oplD.png)
 
 
 
@@ -109,7 +109,7 @@ Unix文件有以下几种
 
 CPU既可以运行在用户态下，也可以运行在内核态下。
 
-![Screenshot from 2021-05-24 13-47-52](https://i.loli.net/2021/05/24/w3EDQYOJi5CB8Ky.png)
+![Screenshot from 2021-05-24 13-47-52](https://i.loli.net/2021/06/01/3PRGWFkQYs7TJqb.png)
 
 
 
@@ -259,7 +259,7 @@ POSIX标准定义了大约20种不同的信号，其中有两种是用户自定�
 
 这种内存物理地址通常分为3组：最高几位对应标签，中间几位对应高速缓存控制器的子集索引，最低几位对应行内的偏移量。
 
-![image-20200703203858036](深入理解Linux内核笔记/image-20200703203858036.png)
+![image-20200703203858036](https://i.loli.net/2021/06/01/fSYl1eJLvGdwrXZ.png)
 
 当cache命中时，可以进行不同的操作，具体取决于存取类型。对于读操作，控制器从高速缓存行中选择数据并送到CPU寄存器，不需访问RAM因而节约了CPU时间。对于写操作，控制器可能采用以下两个基本策略之一，分别称之为**通写**（write-through）和**回写**（write-back）。
 
@@ -410,7 +410,7 @@ flush_tlb_page	刷新指定进程中单个页表项相关的TLB表项	处理缺�
 
 进程描述符都是task_struct类型结构，它的字段包含了与一个进程相关的所有信息。
 
-![image-20200707092020149](深入理解Linux内核笔记/image-20200707092020149.png)
+![image-20200707092020149](https://i.loli.net/2021/06/01/hErYOGTSKqjNa7k.png)
 
 进程描述符包含了四种不同类型的PID的字段，每种类型的PID需要自己的散列表。内核初始化期间动态地为4个散列表分配空间，并把它们的地址存入pid_hash数组。
 
@@ -421,7 +421,7 @@ Hash表的类型	字段名	说明
 * PIDTYPE_PGID	pgrp	进程组领头进程的PID
 * PIDTYPE_SID	session	会话领头进程的PID
 
-![image-20200707092141035](深入理解Linux内核笔记/image-20200707092141035.png)
+![image-20200707092141035](https://i.loli.net/2021/06/01/H2h9g86yPLGfFuX.png)
 
 
 
