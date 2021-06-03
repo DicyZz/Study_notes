@@ -1,8 +1,8 @@
 #### 中断处理
 
-![image-20200901142214946](Linux驱动/image-20200901142214946.png)
+![image-20200901142214946](https://i.loli.net/2021/06/03/sbgwt9fhlKTkAo2.png)
 
-![image-20200901142239542](Linux驱动/image-20200901142239542.png)
+![image-20200901142239542](https://i.loli.net/2021/06/03/3xy6HmSBljNt1PF.png)
 
 ![image-20200901142259362](Linux驱动/image-20200901142259362.png)
 
@@ -78,39 +78,39 @@
 
 **微码下载**
 
-![image-20200901194359401](Linux驱动/image-20200901194359401.png)
+![image-20200901194359401](/home/jian/Documents/books/Study_notes/essential_linux_device_drivers/Linux驱动/image-20200901194359401.png)
 
-![image-20200901194415117](Linux驱动/image-20200901194415117.png)
+![image-20200901194415117](/home/jian/Documents/books/Study_notes/essential_linux_device_drivers/Linux驱动/image-20200901194415117.png)
 
 
 
 **模块自动加载**
 
-![image-20200901194632236](Linux驱动/image-20200901194632236.png)
+![image-20200901194632236](/home/jian/Documents/books/Study_notes/essential_linux_device_drivers/Linux驱动/image-20200901194632236.png)
 
-![image-20200901194702938](Linux驱动/image-20200901194702938.png)
+![image-20200901194702938](https://i.loli.net/2021/06/03/57Hzxlmh4RNV9oU.png)
 
 
 
 #### 内存屏障
 
-![image-20200901195118775](Linux驱动/image-20200901195118775.png)
+![image-20200901195118775](https://i.loli.net/2021/06/03/FHrTWVhGAq6nKb7.png)
 
-![image-20200901195143368](Linux驱动/image-20200901195143368.png)
+![image-20200901195143368](https://i.loli.net/2021/06/03/M67aLrSUEKvI4mN.png)
 
 
 
 #### 电源管理
 
-![image-20200901195254648](Linux驱动/image-20200901195254648.png)
+![image-20200901195254648](https://i.loli.net/2021/06/03/yfgZjY14aFd5uhR.png)
 
 
 
 #### 查看源代码
 
-![image-20200901195748623](Linux驱动/image-20200901195748623.png)
+![image-20200901195748623](https://i.loli.net/2021/06/03/n2ySRiKBaYGAJHj.png)
 
-![image-20200901195821456](Linux驱动/image-20200901195821456.png)
+![image-20200901195821456](https://i.loli.net/2021/06/03/LvkYCK8w9PtHX4g.png)
 
 
 
