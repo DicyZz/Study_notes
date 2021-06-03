@@ -199,17 +199,27 @@ POSIX标准定义了大约20种不同的信号，其中有两种是用户自定�
 
 #### 内存地址
 
-逻辑地址（logical address）
+**逻辑地址（logical address）**
 
-​		每个逻辑地址都由一个段（segment）和偏移量（offset）组成，偏移量指明了从段开始的地方到实际地址之间的距离
+​		包含在机器语言指令中用来指定一个操作数或一条指令的地址。每个逻辑地址都由一个段（segment）和偏移量（offset）组成，偏移量指明了从段开始的地方到实际地址之间的距离
 
-线性地址（也称虚拟地址virtual address）
+**线性地址（也称虚拟地址virtual address）**
 
-​		通常用十六进制数组表示，值得范围从0x00000000到0xffffffff
+​		是一个32位无符号整数，可以用来表示高达4GB的地址。通常用十六进制数组表示，值得范围从0x00000000到0xffffffff
 
-物理地址（physical address）
+**物理地址（physical address）**
 
-​		他们与从微处理器的地址引脚发送到内存总线上的电信号相对应
+​		用于内存芯片级内存单元寻址。他们与从微处理器的地址引脚发送到内存总线上的电信号相对应，用32位或36位无符号整数表示
+
+![Screenshot from 2021-06-02 18-02-18](https://i.loli.net/2021/06/02/ZyJ5blOEiQxq9GK.png)
+
+![Screenshot from 2021-06-02 18-02-48](https://i.loli.net/2021/06/02/92NSywKIqAmhoid.png)
+
+![Screenshot from 2021-06-02 18-04-17](https://i.loli.net/2021/06/02/uZmDTsFOWBYHnRr.png)
+
+
+
+#### 硬件中的分段
 
 
 
