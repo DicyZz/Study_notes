@@ -34,59 +34,59 @@
 
 **udev**
 
-![image-20200901171907056](Linux驱动/image-20200901171907056.png)
+![image-20200901171907056](/home/jian/Documents/books/Study_notes/essential_linux_device_drivers/Linux驱动/image-20200901171907056.png)
 
-![image-20200901172054215](Linux驱动/image-20200901172054215.png)
+![image-20200901172054215](/home/jian/Documents/books/Study_notes/essential_linux_device_drivers/Linux驱动/image-20200901172054215.png)
 
-![image-20200901172144986](Linux驱动/image-20200901172144986.png)
+![image-20200901172144986](https://i.loli.net/2021/06/04/B3qZVdl2va7zMrD.png)
 
-![image-20200901172223243](Linux驱动/image-20200901172223243.png)
+![image-20200901172223243](https://i.loli.net/2021/06/04/49fBwGHZprVz27i.png)
 
-![image-20200901172240245](Linux驱动/image-20200901172240245.png)
+![image-20200901172240245](https://i.loli.net/2021/06/04/aJhcq3TBlENPmkn.png)
 
 
 
 **sysfs、kobject和设备类**
 
-![image-20200901181938541](Linux驱动/image-20200901181938541.png)
+![image-20200901181938541](https://i.loli.net/2021/06/04/32qKbgsMQV8dkyl.png)
 
-![image-20200901182003274](Linux驱动/image-20200901182003274.png)
+![image-20200901182003274](https://i.loli.net/2021/06/04/xbuGOsYSRpEFtjz.png)
 
-![image-20200901182107471](Linux驱动/image-20200901182107471.png)
+![image-20200901182107471](https://i.loli.net/2021/06/04/cZyU5JXONKavgBn.png)
 
-![image-20200901185206053](Linux驱动/image-20200901185206053.png)
+![image-20200901185206053](https://i.loli.net/2021/06/04/mkeGwJS8y35tcXI.png)
 
-![image-20200901185506852](Linux驱动/image-20200901185506852.png)
+![image-20200901185506852](https://i.loli.net/2021/06/04/b1BUjvGYgpQ3ALR.png)
 
-![image-20200901185645091](Linux驱动/image-20200901185645091.png)
+![image-20200901185645091](https://i.loli.net/2021/06/04/CQpa1HyhEY8FSro.png)
 
-![image-20200901185711787](Linux驱动/image-20200901185711787.png)
+![image-20200901185711787](https://i.loli.net/2021/06/04/oFPsREWD6Vn1CxA.png)
 
-![image-20200901185742163](Linux驱动/image-20200901185742163.png)
+![image-20200901185742163](https://i.loli.net/2021/06/04/fnvUjkzZw7E9aSM.png)
 
-![image-20200901185850142](Linux驱动/image-20200901185850142.png)
+![image-20200901185850142](https://i.loli.net/2021/06/04/mHG2UC9LkNiYW4V.png)
 
 
 
 **热插拔和冷插拔**
 
-![image-20200901193201131](Linux驱动/image-20200901193201131.png)
+![image-20200901193201131](https://i.loli.net/2021/06/04/9s8dFah1NqCmDXL.png)
 
-![image-20200901193516495](Linux驱动/image-20200901193516495.png)
+![image-20200901193516495](https://i.loli.net/2021/06/04/ZWhlYkCD5XVwenG.png)
 
 
 
 **微码下载**
 
-![image-20200901194359401](/home/jian/Documents/books/Study_notes/essential_linux_device_drivers/Linux驱动/image-20200901194359401.png)
+![image-20200901194359401](https://i.loli.net/2021/06/04/iFMsSBg4c51Wa3v.png)
 
-![image-20200901194415117](/home/jian/Documents/books/Study_notes/essential_linux_device_drivers/Linux驱动/image-20200901194415117.png)
+![image-20200901194415117](https://i.loli.net/2021/06/04/QSJzV4FMElirOnv.png)
 
 
 
 **模块自动加载**
 
-![image-20200901194632236](/home/jian/Documents/books/Study_notes/essential_linux_device_drivers/Linux驱动/image-20200901194632236.png)
+![image-20200901194632236](https://i.loli.net/2021/06/04/MGgyx4k2aSDPstb.png)
 
 ![image-20200901194702938](https://i.loli.net/2021/06/03/57Hzxlmh4RNV9oU.png)
 
