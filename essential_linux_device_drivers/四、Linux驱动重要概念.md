@@ -1,3 +1,15 @@
+ * [中断处理](#中断处理)
+ * [softirq 和 tasklet](#softirq-和-tasklet)
+ * [设备模型](#设备模型)
+    * [<strong>udev</strong>](#udev)
+    * [<strong>sysfs、kobject和设备类</strong>](#sysfskobject和设备类)
+    * [<strong>热插拔和冷插拔</strong>](#热插拔和冷插拔)
+    * [<strong>微码下载</strong>](#微码下载)
+    * [<strong>模块自动加载</strong>](#模块自动加载)
+ * [内存屏障](#内存屏障)
+ * [电源管理](#电源管理)
+ * [查看源代码](#查看源代码)
+
 #### 中断处理
 
 ![image-20200901142214946](https://i.loli.net/2021/06/03/sbgwt9fhlKTkAo2.png)
@@ -32,7 +44,7 @@
 
 #### 设备模型
 
-**udev**
+##### **udev**
 
 ![image-20200901171907056](/home/jian/Documents/books/Study_notes/essential_linux_device_drivers/Linux驱动/image-20200901171907056.png)
 
@@ -46,7 +58,7 @@
 
 
 
-**sysfs、kobject和设备类**
+##### **sysfs、kobject和设备类**
 
 ![image-20200901181938541](https://i.loli.net/2021/06/04/32qKbgsMQV8dkyl.png)
 
@@ -68,7 +80,7 @@
 
 
 
-**热插拔和冷插拔**
+##### **热插拔和冷插拔**
 
 ![image-20200901193201131](https://i.loli.net/2021/06/04/9s8dFah1NqCmDXL.png)
 
@@ -76,7 +88,7 @@
 
 
 
-**微码下载**
+##### **微码下载**
 
 ![image-20200901194359401](https://i.loli.net/2021/06/04/iFMsSBg4c51Wa3v.png)
 
@@ -84,7 +96,7 @@
 
 
 
-**模块自动加载**
+##### **模块自动加载**
 
 ![image-20200901194632236](https://i.loli.net/2021/06/04/MGgyx4k2aSDPstb.png)
 
@@ -111,19 +123,6 @@
 ![image-20200901195748623](https://i.loli.net/2021/06/03/n2ySRiKBaYGAJHj.png)
 
 ![image-20200901195821456](https://i.loli.net/2021/06/03/LvkYCK8w9PtHX4g.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
