@@ -16,29 +16,29 @@
 
 ![image-20200901142239542](https://i.loli.net/2021/06/03/3xy6HmSBljNt1PF.png)
 
-![image-20200901142259362](Linux驱动/image-20200901142259362.png)
+![image-20200901142259362](https://i.loli.net/2021/06/06/pbHWCJSf3sNmrkO.png)
 
-![image-20200901145043814](Linux驱动/image-20200901145043814.png)
+![image-20200901145043814](https://i.loli.net/2021/06/06/jBK6Ik5SzdHqpPm.png)
 
-![image-20200901145411289](Linux驱动/image-20200901145411289.png)
+![image-20200901145411289](https://i.loli.net/2021/06/06/Qs3pjrbFMDlVuAC.png)
 
-![image-20200901145628988](Linux驱动/image-20200901145628988.png)
+![image-20200901145628988](https://i.loli.net/2021/06/06/Lt3xDf1sAhzkZeW.png)
 
 
 
 #### softirq 和 tasklet
 
-![image-20200901145853851](Linux驱动/image-20200901145853851.png)
+![image-20200901145853851](https://i.loli.net/2021/06/06/jcziXFVKdelYnpm.png)
 
-![image-20200901150205648](Linux驱动/image-20200901150205648.png)
+![image-20200901150205648](https://i.loli.net/2021/06/06/qNlFGmbHdBxYWUQ.png)
 
-![image-20200901150237053](Linux驱动/image-20200901150237053.png)
+![image-20200901150237053](https://i.loli.net/2021/06/06/1YGarxCcgIOdiWM.png)
 
-![image-20200901150315505](Linux驱动/image-20200901150315505.png)
+![image-20200901150315505](/home/jian/Documents/Study_notes/essential_linux_device_drivers/Linux%E9%A9%B1%E5%8A%A8/image-20200901150315505.png)
 
-![image-20200901171641970](Linux驱动/image-20200901171641970.png)
+![image-20200901171641970](/home/jian/Documents/Study_notes/essential_linux_device_drivers/Linux%E9%A9%B1%E5%8A%A8/image-20200901171641970.png)
 
-![image-20200901171551800](Linux驱动/image-20200901171551800.png)
+![image-20200901171551800](/home/jian/Documents/Study_notes/essential_linux_device_drivers/Linux%E9%A9%B1%E5%8A%A8/image-20200901171551800.png)
 
 
 
@@ -123,7 +123,6 @@
 ![image-20200901195748623](https://i.loli.net/2021/06/03/n2ySRiKBaYGAJHj.png)
 
 ![image-20200901195821456](https://i.loli.net/2021/06/03/LvkYCK8w9PtHX4g.png)
-
 
 
 
