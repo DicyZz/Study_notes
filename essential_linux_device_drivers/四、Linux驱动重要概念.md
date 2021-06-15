@@ -34,11 +34,15 @@
 
 ![image-20200901150237053](https://i.loli.net/2021/06/06/1YGarxCcgIOdiWM.png)
 
+<<<<<<< HEAD
 ![image-20200901150315505](/home/jian/Documents/books/Study_notes/essential_linux_device_drivers/Linux驱动/image-20200901150315505.png)
+=======
+![image-20200901150315505](https://i.loli.net/2021/06/08/T5Xb4vSFVopHNut.png)
+>>>>>>> ce6e0b348a9f6496589d2d58c21de9684418c5f9
 
-![image-20200901171641970](/home/jian/Documents/Study_notes/essential_linux_device_drivers/Linux%E9%A9%B1%E5%8A%A8/image-20200901171641970.png)
+![image-20200901171641970](https://i.loli.net/2021/06/08/28M34tiSUC7g1Db.png)
 
-![image-20200901171551800](/home/jian/Documents/Study_notes/essential_linux_device_drivers/Linux%E9%A9%B1%E5%8A%A8/image-20200901171551800.png)
+![image-20200901171551800](https://i.loli.net/2021/06/08/LM5GjN2X6zwpEqm.png)
 
 
 
@@ -46,9 +50,9 @@
 
 ##### **udev**
 
-![image-20200901171907056](/home/jian/Documents/books/Study_notes/essential_linux_device_drivers/Linux驱动/image-20200901171907056.png)
+![image-20200901171907056](https://i.loli.net/2021/06/08/JHSFcfbOCBGXdxY.png)
 
-![image-20200901172054215](/home/jian/Documents/books/Study_notes/essential_linux_device_drivers/Linux驱动/image-20200901172054215.png)
+![image-20200901172054215](https://i.loli.net/2021/06/08/GBgzNk3Qlt8YVX1.png)
 
 ![image-20200901172144986](https://i.loli.net/2021/06/04/B3qZVdl2va7zMrD.png)
 
