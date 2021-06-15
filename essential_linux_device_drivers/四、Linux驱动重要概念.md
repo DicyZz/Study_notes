@@ -34,7 +34,7 @@
 
 ![image-20200901150237053](https://i.loli.net/2021/06/06/1YGarxCcgIOdiWM.png)
 
-![image-20200901150315505](/home/jian/Documents/Study_notes/essential_linux_device_drivers/Linux%E9%A9%B1%E5%8A%A8/image-20200901150315505.png)
+![image-20200901150315505](/home/jian/Documents/books/Study_notes/essential_linux_device_drivers/Linux驱动/image-20200901150315505.png)
 
 ![image-20200901171641970](/home/jian/Documents/Study_notes/essential_linux_device_drivers/Linux%E9%A9%B1%E5%8A%A8/image-20200901171641970.png)
 
